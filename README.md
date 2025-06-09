@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YiqiSun1
-- 👀 I’m interested in data science, coding / problem solving
-- 🌱 I’m currently learning R and python
+- 👀 I’m interested in Quantitative finance, Data Science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ysun26@cmc.edu
 - 😄 Pronouns: He/him
