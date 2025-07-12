@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Yiqi (Andy) Sun
+- Hi, I’m Yiqi (Andy) Sun
 - I am studying Economics / Data Science in Claremont Mckenna College
-- 👀 I’m interested in using Data techniques to solve interesting problems
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ysun26@cmc.edu
-- ⚡ Fun fact: I used to play golf competitively
+- I am interested in applying Data techniques to all sort of areas
+- I’m looking to collaborate on anything
+- How to reach me ysun26@cmc.edu
 
 <!---
 YiqiSun1/YiqiSun1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
