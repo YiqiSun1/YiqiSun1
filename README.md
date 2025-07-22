@@ -1,7 +1,7 @@
 - Hi, I’m Yiqi (Andy) Sun
 - I am studying Economics / Data Science
 - I am interested in applying Data techniques to all sort of areas
-- I’m looking to collaborate on anything
+- I’m looking to collaborate on anything 
 - How to reach me ysun26@cmc.edu
 
 <!---
