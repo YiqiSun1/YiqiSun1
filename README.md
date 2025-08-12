@@ -1,8 +1,7 @@
-- Hi, I’m Yiqi (Andy) Sun
-- I am studying Economics / Data Science
-- I am interested in applying Data techniques to all sort of areas
-- I’m looking to collaborate on anything 
-- How to reach me ysun26@cmc.edu
+- Hi, I’m Yiqi (Andy) Sun, growing up in Shenzhen, China
+- I am studying Economics / Data Science. Looking for full time job starting in May, 2026
+- I am interested in utilizing engineering, Data Science, and Macro analysis to different fields to create values, support decision making, and thoery-proving
+- I am looking to collaborate on anything. Please reach out for queries (ysun26@cmc.edu)
 
 <!---
 YiqiSun1/YiqiSun1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
