@@ -1,6 +1,6 @@
 - Hi, I’m Yiqi (Andy) Sun, growing up in Shenzhen, China
 - I am studying Economics / Data Science. Looking for full time job starting in May, 2026
-- I am interested in utilizing engineering, Data Science, and Macro analysis to different fields to create values, support decision making, and thoery-proving
+- I am interested in utilizing Engineering, Data Science, and Macro Analysis to fields such as Health care, Finance, logistics to create values, support decision making, and thoery-proving
 - I am looking to collaborate on anything. Please reach out for queries (ysun26@cmc.edu)
 
 <!---
