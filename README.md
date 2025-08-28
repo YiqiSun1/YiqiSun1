@@ -1,4 +1,5 @@
-Hi, I’m Yiqi (Andy) Sun \n
+Hi, I’m Yiqi (Andy) Sun 
+
 📍 Shenzhen, China | Las Vegas | 🎓 Economics & Data Science, Claremont McKenna College (Graduating May 2026)
 ✉️ ysun26@cmc.edu | www.linkedin.com/in/yiqisun 
 
