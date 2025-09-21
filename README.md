@@ -3,8 +3,4 @@
 📍 Shenzhen, China | Las Vegas  
 🎓 Economics & Data Science @ Claremont McKenna College (Class of 2026)  
 ✉️ ysun26@cmc.edu | [LinkedIn](https://www.linkedin.com/in/yiqisun) | [GitHub](https://github.com/YiqiSun1)  
-
-I’m passionate about applying **technology + business insights** to create real impact.  
-Currently building projects in **data science and machine learning**
-
 💡 Open to collaborations and project ideas — always excited to connect!  
